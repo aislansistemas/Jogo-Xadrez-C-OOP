@@ -9,6 +9,8 @@ namespace jogo_xadrez
             Posicao p;
             p = new Posicao(3, 4);
             Console.WriteLine(p);
+
+            Console.ReadKey();
         }
     }
 }
