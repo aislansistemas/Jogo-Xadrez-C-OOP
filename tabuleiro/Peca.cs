@@ -20,6 +20,8 @@ namespace jogo_xadrez.tabuleiro
             this.qteMovimentos = 0;
         }
 
+        
+
 
     }
 }
