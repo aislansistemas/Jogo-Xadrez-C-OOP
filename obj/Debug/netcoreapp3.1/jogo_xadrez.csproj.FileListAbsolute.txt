@@ -1,0 +1,11 @@
+D:\asp.net core\jogo_xadrez\bin\Debug\netcoreapp3.1\jogo_xadrez.exe
+D:\asp.net core\jogo_xadrez\bin\Debug\netcoreapp3.1\jogo_xadrez.deps.json
+D:\asp.net core\jogo_xadrez\bin\Debug\netcoreapp3.1\jogo_xadrez.runtimeconfig.json
+D:\asp.net core\jogo_xadrez\bin\Debug\netcoreapp3.1\jogo_xadrez.runtimeconfig.dev.json
+D:\asp.net core\jogo_xadrez\bin\Debug\netcoreapp3.1\jogo_xadrez.dll
+D:\asp.net core\jogo_xadrez\bin\Debug\netcoreapp3.1\jogo_xadrez.pdb
+D:\asp.net core\jogo_xadrez\obj\Debug\netcoreapp3.1\jogo_xadrez.csprojAssemblyReference.cache
+D:\asp.net core\jogo_xadrez\obj\Debug\netcoreapp3.1\jogo_xadrez.AssemblyInfoInputs.cache
+D:\asp.net core\jogo_xadrez\obj\Debug\netcoreapp3.1\jogo_xadrez.AssemblyInfo.cs
+D:\asp.net core\jogo_xadrez\obj\Debug\netcoreapp3.1\jogo_xadrez.dll
+D:\asp.net core\jogo_xadrez\obj\Debug\netcoreapp3.1\jogo_xadrez.pdb
