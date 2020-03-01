@@ -20,6 +20,9 @@ namespace jogo_xadrez.tabuleiro
             this.qteMovimentos = 0;
         }
 
-       
+        public void incrementarQteMovimentos()
+        {
+            qteMovimentos++;
+        }
     }
 }
