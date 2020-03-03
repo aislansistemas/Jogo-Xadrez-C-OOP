@@ -5,7 +5,7 @@ using tabuleiro;
 
 namespace jogo_xadrez.tabuleiro
 {
-    class Peca
+    abstract class Peca
     {
         public Posicao posicao { get; set; }
         public Cor cor { get; protected set; }
@@ -24,5 +24,9 @@ namespace jogo_xadrez.tabuleiro
         {
             qteMovimentos++;
         }
+
+        public abstract bool[,] movimentosPossiveis();
+
+       
     }
 }
