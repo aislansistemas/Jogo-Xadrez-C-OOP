@@ -12,7 +12,7 @@ namespace jogo_xadrez.tabuleiro
         }
         public override string ToString()
         {
-            return "R";
+            return "T";
         }
 
         private bool podeMover(Posicao pos)
